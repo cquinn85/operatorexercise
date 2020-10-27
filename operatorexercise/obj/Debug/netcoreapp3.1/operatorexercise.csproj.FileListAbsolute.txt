@@ -1,0 +1,13 @@
+C:\Users\cequi\repos\operatorexercise\operatorexercise\bin\Debug\netcoreapp3.1\operatorexercise.exe
+C:\Users\cequi\repos\operatorexercise\operatorexercise\bin\Debug\netcoreapp3.1\operatorexercise.deps.json
+C:\Users\cequi\repos\operatorexercise\operatorexercise\bin\Debug\netcoreapp3.1\operatorexercise.runtimeconfig.json
+C:\Users\cequi\repos\operatorexercise\operatorexercise\bin\Debug\netcoreapp3.1\operatorexercise.runtimeconfig.dev.json
+C:\Users\cequi\repos\operatorexercise\operatorexercise\bin\Debug\netcoreapp3.1\operatorexercise.dll
+C:\Users\cequi\repos\operatorexercise\operatorexercise\bin\Debug\netcoreapp3.1\operatorexercise.pdb
+C:\Users\cequi\repos\operatorexercise\operatorexercise\obj\Debug\netcoreapp3.1\operatorexercise.csprojAssemblyReference.cache
+C:\Users\cequi\repos\operatorexercise\operatorexercise\obj\Debug\netcoreapp3.1\operatorexercise.AssemblyInfoInputs.cache
+C:\Users\cequi\repos\operatorexercise\operatorexercise\obj\Debug\netcoreapp3.1\operatorexercise.AssemblyInfo.cs
+C:\Users\cequi\repos\operatorexercise\operatorexercise\obj\Debug\netcoreapp3.1\operatorexercise.csproj.CoreCompileInputs.cache
+C:\Users\cequi\repos\operatorexercise\operatorexercise\obj\Debug\netcoreapp3.1\operatorexercise.dll
+C:\Users\cequi\repos\operatorexercise\operatorexercise\obj\Debug\netcoreapp3.1\operatorexercise.pdb
+C:\Users\cequi\repos\operatorexercise\operatorexercise\obj\Debug\netcoreapp3.1\operatorexercise.genruntimeconfig.cache
